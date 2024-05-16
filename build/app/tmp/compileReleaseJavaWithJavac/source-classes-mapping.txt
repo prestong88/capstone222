@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/happy_flower/BuildConfig.java
+ com.example.happy_flower.BuildConfig
+com/example/happy_flower/MainActivity.java
+ com.example.happy_flower.MainActivity
